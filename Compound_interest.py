@@ -1,0 +1,6 @@
+p = eval(input("Enter the Principal amount : "))
+r = eval(input("Enter the Annual Rate of interest : "))
+n = eval(input("Enter the number of compounding period per year : "))
+t = eval(input("Enter the Time period : "))
+interest = p*(1 + r/n)**(n*t)
+print(interest)
