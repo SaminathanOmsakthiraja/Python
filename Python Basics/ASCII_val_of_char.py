@@ -1,2 +1,2 @@
 c = input()
-print(ord(c[0]))
+print('ASCII value of ',c,' is ',ord(c[0]))
