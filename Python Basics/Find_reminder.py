@@ -3,4 +3,4 @@ b = int(input())
 if b == 0:
     print("Invalid denaminator")
 else:
-    print(a%b)
+    print("The Reminder is ",a%b)
