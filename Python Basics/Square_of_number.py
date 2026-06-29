@@ -1,2 +1,2 @@
 a = int(input())
-print(a*a)
+print('The square of number is ',a*a)
