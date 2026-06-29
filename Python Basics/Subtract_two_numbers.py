@@ -1,3 +1,3 @@
 a = int(input())
 b = int(input())
-print(a - b)
+print('The answer is ',a - b)
