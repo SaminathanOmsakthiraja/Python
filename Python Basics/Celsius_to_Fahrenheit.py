@@ -1,2 +1,2 @@
 c = eval(input("Enter the celsius value : "))
-print(c * 33.8)
+print('The Fahrenheit value is ',c * 33.8)
