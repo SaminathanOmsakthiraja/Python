@@ -1,2 +1,2 @@
 a = int(input())
-print(a**3)
+print('Cube of the ',a,' is ',a**3)
