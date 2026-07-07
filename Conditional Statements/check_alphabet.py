@@ -3,4 +3,4 @@ print("The character is ",end='')
 if a.isalpha():
     print("Alphabet")
 else:
-    print("The entered value is not Alphabet.")
+    print("Not Alphabet.")
